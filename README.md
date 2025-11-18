@@ -33,12 +33,22 @@ This project showcases advanced data visualization and dashboarding techniques w
 * **Visual Best Practices:** Employed appropriate chart types and color palettes to ensure data clarity and visual appeal.
 <img width="1080" height="1051" alt="image" src="https://github.com/user-attachments/assets/f8396001-deed-4a90-853f-a23055e4b4c1" />
 
-***
+### Visualisations
+* **Danceability by Genre** shows what type of Genre is seen as more Danceable that others
+<img width="723" height="1124" alt="image" src="https://github.com/user-attachments/assets/f1aa8414-865e-44a7-835f-7201e69ca208" />
 
-## 📂 Project File and Requirements
+* **Popular songs by Artist** shows which artists have produced the more popular songs
+<img width="735" height="1103" alt="image" src="https://github.com/user-attachments/assets/b50849e5-e142-4df0-959f-b4caf7a516cc" />
 
-This project is packaged as a Tableau Workbook, which contains all data connections, sheets, and dashboards.
+* **Artist Average Duration** shows the artists all songs average duration
+<img width="730" height="1120" alt="image" src="https://github.com/user-attachments/assets/5589fa7c-fa82-492d-a13e-e859f4730a22" />
 
-| File Name | Description |
-| :--- | :--- |
-| `Spotify Breakdown.twbx` | The complete, packaged Tableau workbook containing the entire analysis and visualization set. |
+* **Energy by Track** shows the tracks energy index
+<img width="730" height="1121" alt="image" src="https://github.com/user-attachments/assets/6a59f001-c373-469e-b2e9-a5695bf952bb" />
+
+* **Songs by Valence** shows he songs with tiered by Valence
+<img width="728" height="1119" alt="image" src="https://github.com/user-attachments/assets/bc1d2769-9468-45ed-a21f-0650db8e156e" />
+
+**Link to my Dashboard**
+[Link to my Dashboard](https://public.tableau.com/views/SpotifyBreakdown/SpotifyArtistBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
