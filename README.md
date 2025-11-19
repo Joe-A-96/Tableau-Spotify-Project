@@ -1,5 +1,3 @@
-# Tableau-Spotify-Project
-
 ## 🎶 Spotify Breakdown: Music Listening Analysis (Tableau)
 
 **An interactive data visualization project built in Tableau to explore and analyze personal or public music listening trends, habits, and preferences from a Spotify dataset.**
